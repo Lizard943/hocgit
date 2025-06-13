@@ -8,4 +8,8 @@ bạn có thể sử dụng mã này để học hỏi và phát triển kỹ n�
 Một ai đó đã sửa file này
 
 
+<<<<<<< HEAD
 Tôi là người sửa đổi mã nguồn mở.
+=======
+Sửa 1 lần nữa
+>>>>>>> efbac61cf3797502cb585e3082b0f2fec276f7c7
