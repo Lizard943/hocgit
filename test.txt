@@ -1,4 +1,6 @@
 đây là một ví dụ về cách sử dụng mã nguồn mở để tạo ra một ứng dụng đơn giản.
-bạn có thể sử dụng mã này để học hỏi và phát triển kỹ năng lập trình của mình.
+
+
+
 
 hôm nay chúng ta sẽ cùng nhau tìm hiểu về cách sử dụng các thư viện mã nguồn mở trong python.
