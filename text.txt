@@ -3,3 +3,9 @@ Xin chào tất cả mọi người!
 // Đây là một ví dụ về cách sử dụng mã nguồn mở để tạo ra một ứng dụng đơn giản.
 // Bạn có thể sử dụng mã này để học hỏi và phát triển kỹ năng lập trình của mình.
 bạn có thể sử dụng mã này để học hỏi và phát triển kỹ năng lập trình của mình.
+
+
+Một ai đó đã sửa file này
+
+
+Tôi là người sửa đổi mã nguồn mở.
